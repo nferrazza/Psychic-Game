@@ -1,0 +1,17 @@
+.jumbotron, .card-header{
+    text-align: center;
+    background-image: url("../Images/jumbotronbg.jpg");
+    background-size: 1500px 500px;
+    background-repeat: no-repeat;
+    opacity: .9;
+
+}
+
+body {
+    background-color: olive;
+    opacity: .7;
+}
+
+.card-body {
+    text-align: center;
+}
